@@ -1,0 +1,5 @@
+
+½
+java:S62046"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8­œô‘õ1J$d6a5f511-1b8d-4633-a2c6-b77a8da7c45e
+p
+java:S2447="-Null is returned but a "Boolean" is expected.(¥¹ï8­ã†‘õ1J$0ce86f7c-b4cb-4b60-883e-053aefc3d25f

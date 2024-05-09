@@ -1,0 +1,12 @@
+
+˜
+java:S1128"PRemove this unused import 'com.example.booklibraryspringboot.entity.BookEntity'.(âÎ§İûÿÿÿÿ8‰íàõ1J$55303862-c060-459d-aa4d-298f967ae63f
+•
+java:S1128"RRemove this unused import 'com.example.booklibraryspringboot.entity.ReaderEntity'.(ş´şï8Šíàõ1J$8398d65a-88e6-4dd5-9edd-9bbb060c501e
+w
+java:S1128
+"5Remove this unused import 'javax.persistence.Column'.(ìûæH8ªìàõ1J$f3cac0e1-4f4a-4d0e-8deb-0c7d14e2a613
+|
+java:S1128"9Remove this unused import 'javax.persistence.JoinColumn'.(´Å¼á8ñ±ìàõ1J$02ceb901-be3f-4fb0-9a58-0ca681e1f92a
+€
+java:S1128"8Remove this unused import 'javax.persistence.ManyToOne'.(ÇÑ²øÿÿÿÿ8ñ±ìàõ1J$9adf274d-35ea-46ef-a099-e1cbc1ff02f9

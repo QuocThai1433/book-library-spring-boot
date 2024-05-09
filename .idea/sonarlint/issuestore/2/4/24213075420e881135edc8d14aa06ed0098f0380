@@ -1,0 +1,7 @@
+
+½
+java:S62046"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8îÙ¸õ1J$dd4f4df4-33d0-403d-a072-c01c29c36906
+½
+java:S6204E"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ñÙ¸õ1J$ae897a5d-714f-4e3c-9ff8-3530fe3c6418
+œ
+java:S1128"TRemove this unused import 'com.example.booklibraryspringboot.entity.CategoryEntity'.(Æ”ÇÍÿÿÿÿÿ8»ß¦½õ1J$14e77caf-a16a-46cf-857e-ff67bd5c120b

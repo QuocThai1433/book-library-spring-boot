@@ -1,0 +1,7 @@
+
+Ω
+java:S62046"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(™ô®π8ØÑËµı1J$4157a2e6-01a9-4499-849f-0af80653c871
+p
+java:S2447="-Null is returned but a "Boolean" is expected.(•πÔç8±ÑËµı1J$3e3dc4ff-c670-4224-8eb3-c9e490a33ae2
+ü
+java:S1128"]Remove this unused import 'com.example.booklibraryspringboot.dto.book.BookStatisticsRequest'.(¸©ö28ÖÀÑ∂ı1J$b67f1e2c-7d77-4c7d-92ff-72e970f6b8b3

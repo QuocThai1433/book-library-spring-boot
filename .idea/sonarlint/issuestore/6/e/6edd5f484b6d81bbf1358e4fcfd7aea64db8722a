@@ -1,0 +1,9 @@
+
+
+java:S62019"HReplace this instanceof check and cast with 'instanceof Integer integer'(ÕÊÙËüÿÿÿÿ8¢å°æõ1J$43930622-12b9-4e66-846c-6ec441101333
+
+java:S6201;"HReplace this instanceof check and cast with 'instanceof Boolean boolean'(Ğö­ùÿÿÿÿ8¢å°æõ1J$7120110d-9b01-4cad-ad12-b007da95c168
+Š
+java:S6201="BReplace this instanceof check and cast with 'instanceof Long long'(ÇïíŸüÿÿÿÿ8Øç±æõ1J$c67d11ff-ef08-426a-80ed-e29362bea545
+
+java:S1858V"L"getPublicationYear" returns a string, there's no need to call "toString()".(ÅË·8§å°æõ1J$87bb4767-4c49-494f-b3b3-3eaf3f07e100
